@@ -1,0 +1,998 @@
+MATEMÁTICA
+ 01 – Uma empresa de logística e transporte rodoviário tem três tipos de caminhões (tipo
+1, tipo 2 e tipo 3), sendo que cada caminhão tem capacidade para transportar equipamentos com 3
+diferentes dimensões, conforme o número de unidades correspondente, de acordo com o que está
+descrito na tabela abaixo:
+A quantidade de caminhões carregados com a sua capacidade máxima que deve ser usada para
+transportar, respectivamente, 23 equipamentos com a dimensão A, 18 equipamentos com a dimensão
+B e 20 equipamentos com a dimensão C é:
+A) 4 caminhões do tipo 1; 7 caminhões do tipo 2 e 5 caminhões do tipo 3.
+B) 5 caminhões do tipo 1; 6 caminhões do tipo 2 e 6 caminhões do tipo 3.
+C) 3 caminhões do tipo 1; 7 caminhões do tipo 2 e 5 caminhões do tipo 3.
+D) 1 caminhão do tipo 1; 5 caminhões do tipo 2 e 8 caminhões do tipo 3.
+E) 5 caminhões do tipo 1; 7 caminhões do tipo 2 e 4 caminhões do tipo 3.
+ 02 – Seja a transformação linear 𝑻: ℝ𝟐 → ℝ𝟐 descrita por 𝑻(x1
+, x2
+) = [
+1 3
+−3 0.5
+] × [
+x1
+x2
+],
+a alternativa que apresenta corretamente a lei da transformação linear e a imagem de 𝑣 = (−3,4) é:
+A) 𝑻(x1
+, x2
+) = (x1 + 3x2
+, −3x1 + 0.5x2
+) assim, 𝑻(𝒗) = (9,11)
+B) 𝑻(x1
+, x2
+) = (x1 − 3x2
+, 3x1 + 0.5x2
+) assim, 𝑻(𝒗) = (21, −1)
+C) 𝑻(x1
+, x2
+) = (x1 + 3x2
+, 3x1 + 0.5x2
+) assim, 𝑻(𝒗) = (9, −7)
+D) 𝑻(x1
+, x2
+) = (x1 + 0.5x2
+, −3x1 + 3x2
+) assim, 𝑻(𝒗) = (−1,21)
+E) 𝑻(x1
+, x2
+) = (−x1 + 3x2
+, −3x1 − 0.5x2
+) assim, 𝑻(𝒗) = (21,11)
+ 03 – Os pontos A(2,3,4), B(1,5,6) e C(4,2,3) são os vértices de um triângulo de área:
+A) √3 𝑐𝑚2
+B) 2√3 𝑐𝑚2
+C) 3√2
+2
+𝑐𝑚2
+D) 6√3 𝑐𝑚2
+E) 3√3 𝑐𝑚2
+ 04 – O ângulo entre os vetores 𝑢⃗ = (2,2,0) e 𝑣 = (0,3, −3) é:
+A) 0°
+B) 30°
+C) 45°
+D) 60°
+E) 90°
+Dimensão A Dimensão B Dimensão C
+Caminhão tipo 1 1 0 1
+Caminhão tipo 2 2 2 1
+Caminhão tipo 3 1 1 2
+3/8/201615:48:11
+ :  4
+ 
+ 05 – Os valores críticos da função são:
+A) x=0, x=4 e x=10.
+B) x=4 e x=10.
+C) x=0, x=-4 e x=10.
+D) x=0, x=-4 e x=-10.
+E) x=0, x=4 e x=-10.
+ 06 – Um dos métodos iterativos para determinar as raízes de uma função é o Método de
+Newton-Raphson, descrito por:
+Portanto, para determinar as raízes da função 𝒚 = 𝒇(𝒙) = 𝒙
+𝟑 − 𝒔𝒆𝒏(𝒙) , temos a descrição da
+expressão algébrica na alternativa:
+A) 𝑥𝑛+1 = 𝑥𝑛 −
+(𝑥𝑛
+3−𝑠𝑒𝑛(𝑥𝑛))
+(3𝑥𝑛
+2−𝑐𝑜𝑠(𝑥𝑛))
+B) 𝑥𝑛+1 = 𝑥𝑛 −
+(𝑥𝑛
+3−𝑠𝑒𝑛(𝑥𝑛))
+(3𝑥𝑛
+2+𝑐𝑜𝑠(𝑥𝑛))
+C) 𝑥𝑛+1 = 𝑥𝑛 −
+(𝑥𝑛
+3−𝑠𝑒𝑛(𝑥𝑛))
+(𝑥𝑛
+2−𝑐𝑜𝑠(𝑥𝑛))
+D) 𝑥𝑛+1 = 𝑥𝑛 −
+(𝑥𝑛
+3−𝑠𝑒𝑛(𝑥𝑛))
+(3𝑥𝑛
+2−𝑠𝑒𝑛(𝑥𝑛))
+E) 𝑥𝑛+1 = 𝑥𝑛 −
+(𝑥𝑛
+3−𝑠𝑒𝑛(𝑥𝑛))
+(6𝑥𝑛
+3−𝑐𝑜𝑠(𝑥𝑛))
+3/8/201615:48:11
+ :  5
+
+ 07 – A equação que representa a forma da cônica na imagem abaixo é:
+A) 𝑥
+2 = 4𝑦 + 4
+B) 𝑥
+2
+25
++
+𝑦
+2
+16
+= 1
+C) 𝑥
+2
+25
+−
+𝑦
+2
+16
+= 1
+D) 𝑥
+2
+16
++
+𝑦
+2
+25
+= 1
+E) 𝑥
+2
+16
+−
+𝑦
+2
+25
+= 1
+ 08 – Assinale a alternativa que apresenta um conjunto de retas coplanares.
+A) 𝑟:{
+𝑥 = 2𝑡
+𝑦 = −6 + 3𝑡
+𝑧 = 1 + 4𝑡
+,t  e 𝑠:{
+𝑥 = 5 + 𝑡
+𝑦 = 2 − 3𝑡
+𝑧 = 7 − 2𝑡
+,t 
+B) 𝑟:{
+𝑥 = 2 + 2𝑡
+𝑦 = 3𝑡
+𝑧 = 5 + 4𝑡
+,t 
+e 𝑠:{
+𝑥 = 1 + 𝑡
+𝑦 = 1 − 3𝑡
+𝑧 = −2𝑡
+,t 
+C) 𝑟:{
+𝑥 = 8𝑡
+𝑦 = −6 + 12𝑡
+𝑧 = 1 + 16𝑡
+,t 
+e 𝑠:{
+𝑥 = 10 + 𝑡
+𝑦 = 4 − 3𝑡
+𝑧 = 14 − 2𝑡
+,t 
+D) 𝑟:{
+𝑥 = 1 + 2𝑡
+𝑦 = 5 + 3𝑡
+𝑧 = −6 + 4𝑡
+,t 
+e 𝑠:{
+𝑥 = 5 + 𝑡
+𝑦 = 11 − 3𝑡
+𝑧 = 2 − 2𝑡
+,t 
+E) 𝑟:{
+𝑥 = 1 + 2𝑡
+𝑦 = 5 + 3𝑡
+𝑧 = −6 + 4𝑡
+,t 
+e 𝑠:{
+𝑥 = 2 − 2𝑡
+𝑦 = 3 + 6𝑡
+𝑧 = 1 + 4𝑡
+,t 
+3/8/201615:48:11
+ :  6
+ 
+ 09 – A respeito das propriedades da relação definida por RAxA, para A={x  N tal que
+1 x 6}, descrita pela matriz de incidência da relação
+𝐴 =
+[
+
+
+
+
+
+1 0 0 0 0 0
+0 1 1 0 0 1
+0 1 1 0 0 1
+0 0 0 1 0 0
+0 1 1 0 1 1
+0 0 0 0 0 1]
+
+
+
+
+
+para {
+𝑎𝑖𝑗 = 0, 𝑠𝑒 (𝑖,𝑗) ∉ 𝑅
+𝑎𝑖𝑗 = 1, 𝑠𝑒 (𝑖,𝑗) ∈ 𝑅
+é correto afirmar que essa relação é:
+A) Somente reflexiva.
+B) Somente simétrica.
+C) Somente transitiva.
+D) Reflexiva e simétrica, mas não é transitiva.
+E) Reflexiva e transitiva, mas não é simétrica.
+ 10 – A área da região limitada pelo gráfico da função 𝑓(𝑥) = −2𝑥
+3
+ e 𝑔(𝑥) = −8𝑥, conforme
+descrito na imagem abaixo, é:
+A) 32.
+B) 24.
+C) 16.
+D) 8.
+E) 4.
+ 11 – Considere a seguinte proposição Z: p->(q->r)
+A negação da proposição Z é logicamente equivalente à proposição:
+A) (p ∧ q) ∧ (~r)
+B) (p ∨ q) ∧ (~r)
+C) (~p) ∧ (~q) ∧ r
+D) (~p) ∧ ((~q) ∨ r)
+E) (~p) ∨ ((~q) ∨ r)
+3/8/201615:48:11
+ :  7
+ 
+ 12 – Se Daniel fala dinamarquês, então eu falo inglês ou alemão. Se eu não falo alemão
+e nem inglês, então:
+A) Eu falo dinamarquês.
+B) Eu não falo dinamarquês.
+C) Daniel fala inglês.
+D) Daniel não fala inglês.
+E) Daniel não fala dinamarquês.
+ 13 – Quantas senhas de no mínimo 4 caracteres e no máximo 6 caracteres podem ser
+construídas quando é permitido usar as 5 vogais minúsculas do alfabeto e 10 algarismos, sendo que
+o primeiro caractere da senha é, obrigatoriamente, uma vogal e que podemos repetir caracteres?
+A) 687.656.
+B) 813.375.
+C) 3.796.875.
+D) 4.066.875.
+E) 11.390.625.
+ 14 – Seja A um subconjunto dos números naturais de 10 elementos. Seja R uma relação
+definida no produto cartesiano do conjunto das partes de A, isto é: 𝑅 ⊆ 𝒫(𝐴) × 𝒫(𝐴) onde: 𝑅 = {(𝑥, 𝑦) ∈
+𝒫(𝐴) × 𝒫(𝐴) 𝑡𝑎𝑙 𝑞𝑢𝑒 𝑥 ∩ 𝑦 ≠ ∅} é correto afirmar que a relação 𝑅
+A) é somente uma relação de ordem.
+B) é somente uma relação de equivalência.
+C) não é relação de ordem nem de equivalência, pois a relação não é reflexiva.
+D) não é relação de ordem nem de equivalência, pois a relação não é transitiva.
+E) não é relação de ordem nem de equivalência, pois a relação não é reflexiva e não é transitiva.
+ 15 – Considere a seguinte proposição: Todas as métricas de avaliação foram positivas.
+A negação da proposição acima é logicamente equivalente à afirmação:
+A) Alguma métrica de avaliação foi negativa.
+B) Nenhuma métrica de avaliação foi positiva.
+C) Todas as métricas de avaliação foram negativas.
+D) Alguma métrica de avaliação foi negativa ou zero.
+E) Todas as métricas de avaliação foram negativas ou zero.
+ 16 – Considerando as identidades de conjuntos, se justifica a simplificação entre as
+seguintes sentenças
+1. (𝐴 ∩ 𝐵
+′) ∪ (𝐶
+′ ∩ 𝐴)
+2. (𝐴 ∩ 𝐵
+′) ∪ (𝐴 ∩ 𝐶′)
+3. 𝐴 ∩ (𝐵
+′ ∪ 𝐶′)
+4. 𝐴 ∩ (𝐵 ∩ 𝐶)′
+pelo uso, respectivamente, das propriedades:
+A) Associativa, comutativa e distributiva.
+B) Associativa, distributiva e Lei de De Morgan.
+C) Associativa, Lei de De Morgan e distributiva.
+D) Comutativa, distributiva e Lei de De Morgan.
+E) Comutativa, distributiva e associativa.
+3/8/201615:48:11
+ :  8
+ 
+ 17 – De quantas maneiras possíveis podemos distribuir 8 controles remotos idênticos em
+5 caixas distintas?
+A) 17.820.
+B) 6.720.
+C) 2.475.
+D) 1.188.
+E) 495.
+ 18 – Um equipamento eletrônico tem dois componentes de armazenamento, A e B, que
+são independentes. Trabalha-se com a probabilidade de falha no componente A de 20% e falha no
+componente B de 15%. A probabilidade de ocorrer falha, simultaneamente, nos dois componentes, é
+de:
+A) 35%.
+B) 30%.
+C) 27%.
+D) 12%.
+E) 3%.
+ 19 – Quantas cadeias compostas de 16 bits possuem os 5 bits à esquerda com 00000 e
+os 4 últimos à direita com 1010, isto é, são da forma 00000_ _ _ _ _ _ _1010?
+A) 256
+B) 128
+C) 91
+D) 64
+E) 14
+ 20 – Uma empresa de desenvolvimento de aplicativos para celular pretende quantificar a
+relação entre a idade de usuários e o número de downloads de aplicativos durante 30 dias. Assim,
+escolheu 10 clientes de sua empresa e obteve os seguintes dados:
+Amostra Idade (x) Nº de downloads (y) x.y x
+2 y
+2
+1 18 35 630 324 1225
+2 20 20 400 400 400
+3 25 12 300 625 144
+4 30 15 450 900 225
+5 35 27 945 1225 729
+6 40 4 160 1600 16
+7 45 12 540 2025 144
+8 50 17 850 2500 289
+9 55 23 1265 3025 529
+10 60 10 600 3600 100
+Total (Σ) 378 175 6140 16224 3801
+Qual alternativa representa a equação da Reta de Regressão, y=ax+b, para os dados coletados, onde
+x
+e
+y
+são as médias dos valores de x e y, e
+2 2
+x n(x)
+xy n x y
+a
+ 
+ 
+
+e
+b  y  ax
+?
+A) 𝑦 = 26.7762𝑥 − 0.2454
+B) 𝑦 = −0.2454𝑥 + 26.7762
+C) 𝑦 = −2.454𝑥 + 26.7762
+D) 𝑦 = −24.54𝑥 + 26.7762
+E) 𝑦 = 24.54𝑥 + 267.762
+3/8/201615:48:11
+ :  9
+ 
+FUNDAMENTOS DA COMPUTAÇÃO
+ 21 – Um algoritmo tem complexidade O(3m3 + 2mn2 + n2 + 10m + m2
+). Uma maneira
+simplificada de representar a complexidade desse algoritmo é:
+A) O(m3 + mn2
+).
+B) O(m3
+).
+C) O(m2
+).
+D) O(mn2
+).
+E) O(m3+ n2
+).
+ 22 – O tempo de execução T(n) de um algoritmo, em que n é o tamanho da entrada, é
+dado pela equação de recorrência T(n) = 8T(n/2)+q*n se n > 1. Dado que T(1) = p, e que p e q são
+constantes arbitrárias, a complexidade do algoritmo é:
+A) O(n).
+B) O(n log n).
+C) O(n2
+).
+D) O(n3
+).
+E) O(nn
+).
+ 23 – Considere a árvore binária da figura a seguir:
+Os resultados das consultas dos nós dessa árvore binária em pré-ordem e pós-ordem são,
+respectivamente:
+A) (2 4 6 8 12 16) e (2 6 8 4 16 12).
+B) (12 4 2 8 6 16) e (2 4 6 8 12 16).
+C) (2 6 8 4 16 12) e (12 4 2 8 6 16).
+D) (2 4 6 8 12 16) e (12 4 2 8 6 16).
+E) (12 4 2 8 6 16) e (2 6 8 4 16 12).
+ 24 – A operação de destruição de uma árvore requer um tipo de percurso em que a
+liberação de um nó é realizada apenas após todos os seus descendentes terem sido também liberados.
+Segundo essa descrição, a operação de destruição de uma árvore deve ser implementada utilizando
+o percurso
+A) em ordem.
+B) pré-ordem.
+C) central.
+D) simétrico.
+E) pós-ordem.
+3/8/201615:48:11
+ :  10
+ 
+ 25 – Em relação ao projeto de algoritmos, relacione a Coluna 1 à Coluna 2.
+Coluna 1
+1. Tentativa e Erro.
+2. Divisão e Conquista.
+3. Guloso.
+4. Aproximado.
+5. Heurística.
+Coluna 2
+( ) O algoritmo decompõe o processo em um número finito de subtarefas parciais que devem ser
+exploradas exaustivamente.
+( ) O algoritmo divide o problema a ser resolvido em partes menores, encontra soluções para as
+partes e então combina as soluções obtidas em uma solução global.
+( ) O algoritmo constrói por etapas uma solução ótima. Em cada passo, após selecionar um elemento
+da entrada (o melhor), decide se ele é viável (caso em que virá a fazer parte da solução) ou não.
+Após uma sequência de decisões, uma solução para o problema é alcançada.
+( ) O algoritmo gera soluções cujo resultado encontra-se dentro de um limite para a razão entre a
+solução ótima e a produzida pelo algoritmo.
+( ) O algoritmo pode produzir um bom resultado, ou até mesmo obter uma solução ótima, mas pode
+também não produzir solução nenhuma ou uma solução distante da solução ótima.
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+A) 1 – 2 – 3 – 4 – 5.
+B) 2 – 3 – 4 – 5 – 1.
+C) 3 – 4 – 5 – 1 – 2.
+D) 4 – 5 – 1 – 2 – 3.
+E) 5 – 1 – 2 – 3 – 4.
+ 26 – Uma árvore balanceada T que armazena n chaves é uma árvore binária de pesquisa
+na qual
+A) a diferença entre as alturas de suas subárvores permanece constante em todo o caso, após
+inserções ou remoções de chaves.
+B) as operações de inserção e remoção de chaves em nodos internos v de T seguem um padrão linear
+de tempo de execução.
+C) a propriedade da altura/balanceamento é determinada pela extensão do caminho mais curto entre
+um nodo interno v até o nodo raiz de T.
+D) a variação da altura dos nodos filhos de cada nodo interno v de T é de, no máximo, uma unidade.
+E) o tempo de execução para todas as operações fundamentais sobre cada nodo interno v de T se
+mantém constante.
+ 27 – Assinale a alternativa correta sobre o Paradigma de Programação Imperativo.
+A) É baseado na arquitetura de Von Neumann.
+B) Nos métodos e nos atributos, também são definidas as formas de relacionamento com objetos.
+C) É baseada na arquitetura MVC (Model-View-Controller).
+D) Não existem procedimentos ou funções.
+E) Fácil legibilidade e manutenibilidade.
+ 28 – Assinale a alternativa que apresenta o nome de uma linguagem de tipagem dinâmica.
+A) Java.
+B) C.
+C) Python.
+D) Pascal.
+E) C#.
+3/8/201615:48:11
+ :  11
+ 
+ 29 – A organização de arquivo Sorted File mantém registros
+A) armazenados em regiões indexados por uma função, enquanto a Heap file mantém registros
+armazenados em ordem da chave de busca.
+B) armazenados em ordem da chave de busca, enquanto a Hashed file mantém registros distribuídos
+aleatoriamente nas páginas.
+C) distribuídos aleatoriamente nas páginas, enquanto a Hashed file mantém registros armazenados
+em regiões, indexados por uma função.
+D) armazenados em ordem da chave de busca, enquanto a Heap file mantém registros distribuídos
+aleatoriamente nas páginas.
+E) distribuídos aleatoriamente nas páginas, enquanto a Heap file mantém registros armazenados em
+ordem da chave de busca.
+ 30 – Assinale a alternativa que corresponde à saída do programa a seguir:
+A) x: 68, i: 67.
+B) x: 68, i: 68.
+C) x: 69, i: 68.
+D) x: 69, i: 69.
+E) x: 69, i: 70.
+ 31 – De acordo com o diagrama de classes UML, assinale a alternativa que se relaciona
+diretamente com o conceito de Polimorfismo da Programação Orientada a Objetos.
+A) A relação entre as classes “Veículo” e “Roda”.
+B) O método “solicita_compra()” das classes “Peça” e “Veículo”.
+C) Os atributos “aro: Integer” e “cor: String” da classe “Roda”.
+D) O atributo “nome: String” da classe “Peça”.
+E) O atributo “ano: Integer” da classe “Veículo”.
+3/8/201615:48:11
+ :  12
+ 
+ 32 – A matriz de um grafo G = (V,A) contendo n vértices é uma matriz n x n de bits, em
+que A[i,j] é 1 (ou verdadeiro, no caso de booleanos) se e somente se existir um arco do vértice i para
+o vértice j. Essa definição é uma:
+A) Matriz de adjacência para grafos não ponderados.
+B) Matriz de recorrência para grafos não ponderados.
+C) Matriz de incidência para grafos não ponderados.
+D) Matriz de adjacência para grafos ponderados.
+E) Matriz de incidência para grafos ponderados.
+ 33 – Assinale a alternativa correta em relação ao padrão de projeto Singleton.
+A) Possui apenas 2 classes.
+B) É instanciado através da chamada de um método público e estático.
+C) Possui um membro privado não estático da própria classe.
+D) Tem que ter o construtor público para funcionar.
+E) Não é um padrão de criação.
+ 34 – O VFS (Virtual File System) é o mecanismo que permite que chamadas de sistemas
+genéricas possam ser executadas independentemente do sistema de arquivos usado ou do meio físico.
+Em relação aos objetos primários do VFS, analise as afirmações abaixo e assinale V, se verdadeiras,
+ou F, se falsas.
+( ) Superbloco é utilizado para armazenar informações sobre um sistema de arquivos específico.
+( ) Inode representa um arquivo específico. Cada arquivo é representado por um inode no Sistema
+de Arquivos.
+( ) Dentry representa uma entrada de diretório. O objeto Dentry não corresponde a qualquer
+estrutura de dados armazenada em disco.
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+A) F – F – F.
+B) F – F – V.
+C) F – V – V.
+D) V – V – V.
+E) V – V – F.
+ 35 – Quanto às propriedades de cada tipo de índice, ao comparar número de entradas de
+índice e densidade, é correto afirmar que:
+A) O tipo de índice primário possui número de blocos no arquivo de dados e é denso.
+B) O tipo de índice agrupamento possui número de valores de campo de índice distintos e é denso.
+C) O tipo de índice secundário (chave) possui número de registros no arquivo de dados e não é denso.
+D) O tipo de índice secundário (não chave) possui número de valores de campo de índice distintos, no
+caso de manter as próprias entradas de índice em um tamanho fixo e ter uma única entrada para
+cada valor de campo de índice, mas criar um nível de indireção extra para lidar com múltiplos
+ponteiros, e, assim, esse é um índice denso.
+E) O tipo de índice secundário (não chave) possui número de registros, no caso de incluir entradas de
+índice duplicadas com um mesmo valor K(i) – um para cada valor, e, assim, é um índice denso.
+3/8/201615:48:11
+ :  13
+ 
+ 36 – A Figura (a) abaixo mostra o exemplo de um grafo não direcionado G com os pesos
+mostrados ao lado de cada aresta. Sobre a árvore T representada na Figura (b), é correto afirmar
+que:
+A) T representa a árvore geradora mínima do grafo da Figura (a) cujo peso total é 12. T não é única,
+pois a substituição da aresta (3,5) pela aresta (2,5) produz outra árvore geradora de custo 12.
+B) T representa a árvore de caminhos mais curtos entre todos os pares de vértices do grafo da Figura
+(a). T não é única, pois a substituição da aresta (3,5) pela aresta (2,5) produz caminhos mais
+curtos entre os mesmos pares de vértices do grafo.
+C) T representa a árvore geradora mínima do grafo da Figura (a) cujo peso total é 12. A substituição
+da aresta (3,5) pela aresta (2,4) produz uma árvore geradora máxima cujo peso total é 14.
+D) T representa a ordenação topológica do grafo da Figura (a). O peso da aresta (0,2) indica que ela
+deve ser executada antes da aresta (2,3) e o peso da aresta (2,3) indica que ela deve ser executada
+antes da aresta (4,5) e assim sucessivamente.
+E) T representa a árvore de caminhos mais curtos do grafo da Figura (a) com origem única no vértice
+2. T não é única, pois a substituição da aresta (3,5) pela aresta (2,4) produz caminhos mais curtos
+entre todos os pares de vértices do grafo.
+ 37 – Em relação a Teoria dos Grafos, relacione a Coluna 1 à Coluna 2.
+Coluna 1
+1. Grafo Completo.
+2. Hipergrafo.
+3. Árvore Livre.
+4. Grafo Planar.
+5. Grafo não direcionado antirregular.
+Coluna 2
+( ) Grafo não direcionado, no qual todos os pares de vértices são adjacentes entre si.
+( ) Grafo não direcionado em que cada aresta conecta um número arbitrário de vértices, ao invés de
+conectar dois vértices apenas.
+( ) Grafo não direcionado acíclico e dirigido.
+( ) Grafo em que seu esquema pode ser traçado em um plano, de modo que duas arestas quaisquer
+se toquem, no máximo, em alguma extremidade.
+( ) Grafo que possui o maior número possível de graus diferentes em sua sequência.
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+A) 1 – 2 – 3 – 4 – 5.
+B) 2 – 3 – 4 – 5 – 1.
+C) 3 – 4 – 5 – 1 – 2.
+D) 4 – 5 – 1 – 2 – 3.
+E) 5 – 1 – 2 – 3 – 4.
+3/8/201615:48:11
+ :  14
+ 
+ 38 – Assinale a alternativa correta a respeito do algoritmo em Java a seguir.
+A) Os números impressos no console variam de 0 até 100 sem repetição.
+B) Os números impressos no console variam de 0 até 101 com repetição.
+C) A classe TreeSet garante que os números não se repitam.
+D) A classe Set gera números aleatórios.
+E) Vinte e um números serão sorteados.
+ 39 – O grafo rotulado G(r), exposto abaixo, representa qual expressão regular?
+A)
+B)
+C)
+D)
+E)
+ 40 – A linguagem , para
+n  0
+e
+m  0
+, é:
+A) Regular e gerada pela gramática
+S  aA, A baA|  .
+B) Sensível ao contexto e gerada pela gramática
+S  aSBC,S  aBC, CB  BC, aB  ab, bB  bb,
+bC bc,cC  cc .
+C) Recursivamente enumerável e gerada por uma gramática sem restrições nas regras de produção.
+D) Estrutura de frase e gerada por uma gramática sem restrições nas regras de produção.
+E) Livre de contexto e gerada pela gramática
+S  aaaA, A  aAb | B,B  Bb |  .
+3/8/201615:48:11
+ :  15
+ 
+ 41 – Considere a linguagem
+{ | { , } }
+
+L  ww w a b
+, sobre a construção e a eficiência de
+algoritmos para aceitar
+L
+sobre uma máquina de Turing padrão e assinale a alternativa correta.
+A) Contar o número de símbolos. Se a contagem é feita em unário, a operação tem custo O(n). Em
+seguida, escrever a primeira metade em outra fita. Essa também é uma operação com custo O(n).
+Finalmente, a comparação pode ser feita em O(n) movimentos.
+B) Encontrar o meio da cadeia e voltar para fazer o mathc (casamento) dos símbolos. Ambas as partes
+são feitas em O(
+2
+n
+) movimentos.
+C) Adivinhar o meio da cadeia não deterministicamente em um movimento. A correspondência leva
+O(
+2
+n
+) movimentos.
+D) Advinhar o meio da cadeia e proceder como em (a). O custo total é O(n) movimentos.
+E) Iniciar em uma das extremidades da cadeia e contar até o meio. O custo é O(
+2
+n
+)movimentos.
+ 42 – Determine o tipo de máquina de estados finitos da figura abaixo:
+A) Mealy síncrona.
+B) Mealy assíncrona.
+C) Moore.
+D) Turing que sempre para.
+E) Turing.
+ 43 – Em relação aos circuitos digitais, analise as assertivas abaixo e assinale V, se
+verdadeiras, ou F, se falsas.
+( ) Uma porta NAND (Não-E) é equivalente a uma porta OR (OU) com as entradas e as saídas
+complementadas.
+( ) Qualquer função booleana pode ser representada utilizando somente portas NAND (Não-E) e NOR
+(Não-Ou).
+( ) Os índices do Mapa de Karnaugh são numerados utilizando o Código de Reed-Solomon, o que faz
+com que as distâncias entre células horizontais e verticais difiram de exatamente um bit.
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+A) F – V – F.
+B) F – F – V.
+C) V – F – V.
+D) V – V – F.
+E) V – F – F.
+3/8/201615:48:11
+ :  16
+ 
+ 44 – A representação em complemento de dois é uma representação binária de números
+com sinal a qual utiliza o bit mais significativo como bit de sinal, o que facilita o teste se um número
+inteiro é positivo ou negativo.
+De acordo com a regra da representação em complemento de dois, a conversão do número -32658
+corresponde ao número:
+A) 1000000001010001.
+B) 1001001001001001.
+C) 1111111100100010.
+D) 1011111100010001.
+E) 1000000001101110.
+ 45 – Algoritmos de substituição de página são importantes em sistemas operacionais que
+usam a técnica de memória virtual. Em geral, escolhe-se um algoritmo de substituição de página que
+resulte em menor taxa de falta de página (page fault). Contudo, alguns algoritmos de substituição de
+página apresentam a anomalia de Belady (Belady’s anomaly). O que caracteriza essa anomalia é o
+fato de o número de faltas de página aumentar na medida em que o
+A) tempo de execução aumenta.
+B) número de páginas alocadas aumenta.
+C) número de páginas não alocadas aumenta.
+D) tempo de retenção de páginas alocadas aumenta.
+E) número de vezes que as páginas alocadas são acessadas.
+ 46 – Em um sistema computacional multiprocessado, onde o sistema operacional realiza
+escalonamento de tarefas do tipo preemptivo, três processos (P1, P2 e P3) compartilham recursos
+(R1, R2 e R3). Os processos P1 e P2 concorrem entre si ao acesso do recurso R1, enquanto P2 e P3
+concorrem entre si ao acesso dos recursos R2 e R3. Os recursos R1 e R3 são preemptíveis, ou seja,
+podem sofrer preempção; R2 é um recurso não preemptível. Todos os três processos usam o mesmo
+mecanismo de exclusão mútua para garantir acesso exclusivo em suas seções críticas. Com base
+nesse cenário, é correto afirmar que:
+A) Não é possível ocorrer deadlock entre os três processos.
+B) É possível ocorrer deadlock entre P1 e P2.
+C) É possível ocorrer deadlock entre P2 e P3.
+D) É possível ocorrer deadlock entre P1 e P3.
+E) É possível ocorrer deadlock com uma espera circular entre P1, P2 e P3.
+ 47 – Dada a função F(A,B,C,D) composta dos termos mínimos (minterm)={0, 2, 6, 8, 9,
+11, 12, 13} e dos termos não essenciais (don’t care)={5, 13}. Simplifique essa função como soma
+de produtos. O símbolo ’ representa o complemento:
+A) AC’+AD+A’CD’+B’C’D’
+B) AC’D’+AB’C’+ACD+A’CD’+A’B’D’
+C) AC’+AD+A’CD’+A’B’D’+BC’D
+D) ACD’+A’D+A’BC’
+E) AC’+AD’+ A’CD+ B’C’D’
+3/8/201615:48:11
+ :  17
+ 
+ 48 – Analise as seguintes definições de pipeline de instruções simples, superescalar e
+multithreading simultâneo:
+I. Pipeline instruções simples: instruções individuais que são executadas através de um pipeline de
+estágios, de maneira que, enquanto uma instrução está sendo executada em um estágio, outra
+instrução está sendo executada em outro estágio do pipeline.
+II. Superescalar: um pipeline é construído por meio da replicação de recursos de execução, o que
+permite a execução paralela de instruções em pipelines paralelos.
+III. Multithreading simultâneo (SMT): bancos de registros são replicados para que múltiplas threads
+possam compartilhar o uso dos recursos de pipelines.
+Quais estão corretas?
+A) Apenas I.
+B) Apenas III.
+C) Apenas I e II.
+D) Apenas II e III.
+E) I, II e III.
+ 49 – O protocolo MESI (conhecido também como protocolo de Illinois) é um protocolo de
+coerência de cache e coerência de memória largamente utilizado. Quais são os quatro estados de linha
+da memória cache de acordo com o Protocolo MESI e quais seus respectivos significados?
+A) Ampliada: a linha da cache foi modificada (é o dobro da memória principal) e está presente em
+toda cache. Dedicada: a linha da cache é destinada à memória principal e não está presente em
+nenhuma outra cache. Replicada: a linha da cache é replicada na memória principal e pode estar
+presente em outra cache. Finita: a linha da cache contém dados válidos apenas na memória
+principal.
+B) Modificada: a linha da cache foi modificada (é diferente da memória principal) e está presente
+apenas nessa cache. Exclusiva: a linha da cache é igual àquela na memória principal e não está
+presente em nenhuma outra cache. Compartilhada: a linha da cache é igual àquela na memória
+principal e pode estar presente em outra cache. Inválida: a linha da cache não contém dados
+válidos.
+C) Ampliada: a linha da cache foi ampliada (é maior que a memória principal) e está presente em toda
+cache. Exclusiva: a linha da cache é igual àquela na memória principal e não está presente em
+nenhuma outra cache. Replicada: a linha da cache é replicada na memória principal e pode estar
+presente em outra cache. Finita: a linha da cache contém dados válidos apenas na principal e a
+cache é limitada.
+D) Modificada: a linha da cache foi duplicada (é diferente da memória principal) e está presente em
+toda cache. Dedicada: a linha da cache é destinada à memória principal e não está presente em
+nenhuma outra cache. Compartilhada: a linha da cache é diferente da memória principal e pode
+estar presente em outra cache. Finita: a linha da cache contém dados válidos apenas na memória
+principal.
+E) Ampliada: a linha da cache foi modificada (é o dobro da memória principal) e está presente em
+toda cache. Dedicada: a linha da cache é destinada à memória principal e não está presente em
+nenhuma outra cache. Replicada: a linha da cache é replicada na memória principal e pode estar
+presente em outra cache. Inválida: a linha da cache não contém dados válidos na memória
+principal.
+3/8/201615:48:11
+ :  18
+ 
+ 50 – Um VSNT (Veículo Submarino Não Tripulado) é usado para monitoramento de
+plataformas de petróleo marítimas. O VSNT tira uma foto a cada 1 minuto. O tamanho de cada arquivo
+de foto é padronizado em 5 kB. As fotos são armazenadas em uma partição do disco rígido do VSNT,
+a qual é formatada com sistema de arquivos FAT32 e tamanho de bloco (cluster) de 4 kB. O tempo
+de missão do VSNT é de uma hora. Após o término de cada missão, as fotos são copiadas do VSNT
+para um computador, que utiliza uma partição FAT32 formatada com clusters de 8 kB. Com base
+nesse cenário, o espaço necessário no computador para armazenar todos os arquivos do VSNT em
+uma missão é de:
+A) 240 kB.
+B) 300 kB.
+C) 360 kB.
+D) 480 kB.
+E) 600 kB.
+kB: kilobyte
+1 kB = 1024 bytes
+3/8/201615:48:11
+ :  19
+ 
+TECNOLOGIAS DE COMPUTAÇÃO
+ 51 – Quanto à recuperação após falhas, é importante caracterizar os tipos de
+escalonamentos para determinar se a recuperação é possível e, em caso positivo, a complexidade do
+processo de recuperação. Nesse sentido, analise as assertivas abaixo sobre os tipos de
+escalonamento:
+I. Escalonamentos estritos são necessariamente escalonamentos seriais.
+II. Escalonamentos sem aborto em cascata são necessariamente escalonamentos estritos.
+III. Escalonamentos não seriais são necessariamente escalonamentos com aborto em cascata.
+IV. Escalonamentos seriais são necessariamente escalonamentos recuperáveis.
+Quais estão corretos?
+A) Apenas I.
+B) Apenas IV.
+C) Apenas I e IV.
+D) Apenas II e III.
+E) Apenas II e IV.
+ 52 – Considere um banco de dados para apoiar a correção das provas do POSCOMP. Sabese
+que há as relações CANDIDATO, QUESTAO e RESPOSTA. O atributo X da relação QUESTAO é uma
+chave estrangeira. Com base apenas nessas informações, analise as assertivas abaixo sobre a
+definição de restrições para essa chave estrangeira:
+I. Pode ter valores repetidos nas tuplas de QUESTAO.
+II. Pode ter valor nulo em algumas das tuplas de QUESTAO.
+III. Pode referenciar, ao mesmo tempo, as relações CANDIDATO e RESPOSTA.
+IV. Pode referenciar outra chave estrangeira.
+V. Pode ter valor não nulo distinto de todos os valores presentes na chave primária da relação que
+referencia.
+Quais estão corretas?
+A) Apenas I e II.
+B) Apenas I e III.
+C) Apenas II e V.
+D) Apenas III e IV.
+E) Apenas IV e V.
+3/8/201615:48:11
+ :  20
+ 
+ 53 – A Empresa XYZ trabalha com reuso de software. Em um projeto de software,
+denominado PROJETO A, a Empresa XYZ irá implementar um componente para verificar se a leitura
+de uma determinada resposta está dentro da escala Likert. A referida escala classifica algo em um
+intervalo fechado de 1 a 5. Esse componente será utilizado em todos os softwares, sempre para validar
+as respostas das questões que utilizem a referida escala. Dentro desse contexto, podemos dizer que
+a atividade de teste é de fundamental importância. A célula de teste da Empresa XYZ utilizou o critério
+de análise de valor limite para efetuar os testes desse componente. A célula de teste fracionou o
+critério em três classes. A partir da definição das classes, os dados para efetuar os testes foram
+gerados. Abaixo, é possível encontrar cinco conjuntos de dados de testes. Selecione o conjunto de
+dados que expressa a utilização do critério de análise de valor limite, critério esse estabelecido pela
+célula de teste da Empreza XYZ.
+A) Dados de entrada da classe 1: 0 e 1.
+Dados de entrada da classe 2: 2 e 4.
+Dados de entrada da classe 3: 5 e 6.
+B) Dados de entrada da classe 1: 0 e -1.
+Dados de entrada da classe 2: 2 e 4.
+Dados de entrada da classe 3: 5 e -6.
+C) Dados de entrada da classe 1: 0.
+Dados de entrada da classe 2: 2 e 4.
+Dados de entrada da classe 3: 5 e 6.
+D) Dados de entrada da classe 1: 0.
+Dados de entrada da classe 2: 3 e 4.
+Dados de entrada da classe 3: 6.
+E) Dados de entrada da classe 1: 0.
+Dados de entrada da classe 2: 2 e 4.
+Dados de entrada da classe 3: 7.
+ 54 – Qual o tempo de propagação de um pacote de comprimento L, através de um enlace
+de distância d, velocidade de propagação s e taxa de transmissão de R bps?
+A) L*d/(R*s).
+B) L/R.
+C) d/(s*R).
+D) s/d.
+E) d/s.
+ 55 – O emprego do protocolo de bloqueio de duas fases (2PL) garante a serialização de
+escalonamentos não seriais. A variação desse protocolo que garante escalonamentos livres de impasse
+(deadlock) é denominada:
+A) 2PL Básico.
+B) 2PL Restrito.
+C) 2PL Conservador.
+D) 2PL Estrito.
+E) 2PL Rigoroso.
+3/8/201615:48:11
+ :  21
+ 
+ 56 – Os cinco valores fundamentais da metodologia XP são?
+A) Comunicação, simplicidade, feedback, coragem e respeito.
+B) Ética, capacitação, transparência, união e fidelização.
+C) Comunicação, ética, feedback, tecnologia e resultados.
+D) Liberdade, igualdade, ética, respeito e fraternidade.
+E) Comunicação, ética, união, resultados e liberdade.
+ 57 – Considerando transformações geométricas em duas (2D) e três (3D) dimensões,
+analise as assertivas abaixo:
+I. Coordenadas homogêneas são necessárias para representar a transformação de translação em
+uma matriz.
+II. Se forem realizadas uma transformação de escala uniforme e uma de rotação em 2D, a ordem
+das transformações alterará o resultado final.
+III. Se forem realizadas duas transformações de rotação em 3D: uma de 90 graus em torno do eixo
+X, e outra de 90 graus em torno do eixo Z, o resultado final não será afetado pela ordem das
+transformações.
+Quais estão corretas?
+A) Apenas I.
+B) Apenas II.
+C) Apenas III.
+D) Apenas I e III.
+E) Apenas II e III.
+ 58 – Assinale a alternativa que descreve corretamente uma característica de
+transformações de projeção.
+A) A projeção perspectiva preserva ângulos e medidas de objetos.
+B) Projeções isométricas não são paralelas.
+C) Em uma projeção paralela, considera-se que o centro de projeção está a uma distância determinada
+do plano de projeção.
+D) O tamanho da projeção perspectiva de um objeto varia de forma diretamente proporcional a
+distância desse objeto ao centro de projeção.
+E) Uma projeção perspectiva pode ser representada por uma matriz 4x4.
+ 59 – No contexto de processamento de imagens, a equalização de histograma tem por
+objetivo principal:
+A) Reconhecer os objetos presentes na imagem.
+B) Extrair as bordas presentes na imagem.
+C) Melhorar o contraste da imagem.
+D) Transformar a escala de cores da imagem.
+E) Eliminar ruídos na imagem.
+3/8/201615:48:11
+ :  22
+ 
+ 60 – Em relação às características do protocolo IP, analise as afirmativas abaixo e assinale
+V, se verdadeiras, ou F, se falsas.
+( ) O protocolo IP garante a entrega de mensagens.
+( ) O endereçamento IP é hierárquico.
+( ) O protocolo IP garante que não há duplicação de pacotes.
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+A) F – V – F.
+B) F – F – V.
+C) V – F – V.
+D) V – V – F.
+E) V – F – F.
+ 61 – No contexto de processamento de imagens, um filtro do tipo passa-baixa produz o
+seguinte resultado:
+A) Realça os detalhes da imagem, produzindo um efeito de sharpering (aumento da nitidez).
+B) Realça as propriedades geométricas da imagem a partir de máscaras pré-definidas.
+C) Suaviza as frequências dentro de um intervalo pré-determinado de valores.
+D) Suaviza a imagem atenuando as altas frequências, que correspondem às transições abruptas.
+E) Realça e suaviza de forma simultânea os componentes da imagem.
+ 62 – Uma falha por omissão ocorre quando um processo
+A) não responde a requisições que chegam.
+B) simplesmente para prematuramente.
+C) responde muito cedo a uma requisição.
+D) responde a uma requisição que chega de modo errado.
+E) responde muito tarde a uma requisição.
+ 63 – Sobre a técnica de tradução dirigida por sintaxe, é correto afirmar que:
+A) Uma definição dirigida por sintaxe é uma gramática livre de contexto acrescida de atributos e
+regras. Os atributos são associados às produções, e as regras aos símbolos terminais e não
+terminais da gramática.
+B) Uma definição dirigida por sintaxe é denominada definição S-atribuída quando nessa estão
+envolvidos apenas atributos herdados.
+C) As regras semânticas só são aplicadas após a construção total da árvore sintática pelo parser do
+compilador.
+D) Grafos de dependência são utilizados para determinar uma ordem de avaliação para as instâncias
+dos atributos de uma árvore de derivação.
+E) Sendo “S” um símbolo da gramática presente em uma árvore de derivação, um atributo sintetizado
+é computado através dos valores dos atributos dos nós irmãos ou do nó pai de “S”.
+3/8/201615:48:11
+ :  23
+ 
+ 64 – Em um sistema distribuído, a comunicação __________ entre os processos origem
+e destino ocorre quando um envio (send) é realizado. Neste caso, o processo origem é __________
+até que a recepção (receive) correspondente seja realizada. A comunicação __________ ocorre
+quando a operação envio (send) é __________ e a transmissão da mensagem ocorre __________
+com o processo origem.
+Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+A) síncrona – bloqueado – assíncrona – não bloqueante – em paralelo
+B) síncrona – liberado – assíncrona – bloqueado – em sequência
+C) assíncrona – liberado – síncrona – não bloqueante – em paralelo
+D) síncrona – não bloqueante – assíncrona – bloqueado – em paralelo
+E) assíncrona – bloqueado – síncrona – não bloqueante – em sequência
+ 65 – Uma rede conectada a Internet possui a máscara de sub-rede 255.255.255.0. Qual
+o número máximo de computadores que a rede suporta?
+A) 2
+24
+.
+B) 128.
+C) 65534.
+D) 256.
+E) 254.
+ 66 – Sobre a Lógica Fuzzy (Nebulosa), é correto afirmar que:
+A) Suporta os modos de raciocínio que são exatos ao invés de aproximados.
+B) Baseia-se na teoria clássica dos conjuntos que faz uso de uma condição bivalente de pertinência.
+C) Faz uso de conjuntos difusos aos quais os elementos têm graus de pertinência.
+D) Não admite tratar valores incertos que podem estar entre presentes em mais de um conjunto.
+E) Admite somente forma de lógica ternária.
+ 67 – Em relação a transações e controle de concorrência, analise as afirmações abaixo e
+assinale V, se verdadeiras, ou F, se falsas.
+( ) Três estratégias alternativas são possíveis na programação da execução de uma operação em
+uma transação: (1) executá-la imediatamente, (2) retardá-la ou (3) cancelá-la.
+( ) O controle de concorrência pessimista permite que as transações prossigam, sem qualquer forma
+de verificação, até que sejam concluídas.
+( ) A validação backward ocorre devido ao cancelamento repetido de uma transação que não
+consegue ser validada no controle de concorrência.
+( ) O travamento de duas fases restrito usa as estratégias de executar imediatamente e retardar uma
+transação, usando o cancelamento somente quando ocorre um impasse.
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+A) V – F – F – V.
+B) V – V – F – F.
+C) V – F – V – F.
+D) F – V – F – V.
+E) F – F – V – V.
+3/8/201615:48:11
+ :  24
+ 
+ 68 – Durante a análise sintática, erros podem ser detectados na sintaxe do programa
+fonte. Nesse caso, alguns compiladores podem reportar o erro e interromper a análise. Outros
+reportam o erro, mas, também, realizam uma recuperação do erro e tentam continuar a fase de
+análise, entretanto, a fase de síntese é desativada. Nesse sentido, analise as assertivas abaixo:
+I. Um recuperador de erros para um analisador sintático deve informar a presença de erros de forma
+clara e recuperar-se de maneira que consiga continuar a fase de análise sem se preocupar com o
+custo de processamento para tal atividade.
+II. O modo pânico é uma forma de recuperação de erro na qual o analisador despreza símbolos da
+entrada até que um token sincronizante seja encontrado.
+III. Erros sintáticos incluem divergências de tipo entre operadores e operandos.
+IV. Na recuperação em nível de frase ou local, há a alteração sobre um símbolo que pode ser feita:
+pela substituição, inserção ou exclusão de token de entrada.
+Quais estão corretas?
+A) Apenas I.
+B) Apenas I e III.
+C) Apenas II e IV.
+D) Apenas I, II e III.
+E) I, II, III e IV.
+ 69 – No contexto de algoritmos genéticos, considerando as soluções de codificação binária
+abaixo, é correto afirmar que:
+A) Os cromossomos 3 e 4 foram gerados a partir dos cromossomos 1 e 2, utilizando um operador de
+cruzamento (crossover) de 5 pontos.
+B) Os cromossomos 3 e 4 foram gerados a partir dos cromossomos 1 e 2, utilizando um operador de
+cruzamento (crossover) de 1 ponto entre as posições 2 e 3 do cromossomo.
+C) O cromossomo 3 foi obtido a partir do cromossomo 1 e o cromossomo 4 foi obtido a partir do
+cromossomo 2, utilizando um operador de mutação do tipo flip nas posições 1 e 2 do cromossomo.
+D) O cromossomo 3 foi obtido a partir do cromossomo 1 e o cromossomo 4 foi obtido a partir do
+cromossomo 2, utilizando um operador de mutação do tipo flip nas posições 4 e 5 do cromossomo.
+E) Os cromossomos 3 e 4 foram gerados fazendo uma operação de simples cópia dos cromossomos 1
+e 2.
+3/8/201615:48:11
+ :  25
+ 
+ 70 – Na figura abaixo, você encontra 3 diagramas desenvolvidos em UML (Unified Modeling
+Language) utilizados em um projeto de software: o diagrama de caso de uso, o diagrama de
+sequência, representando o fluxo normal da realização do caso de uso, e, por fim, o diagrama de
+classes.
+Figura – Diagramas: Caso de uso, sequência e classe.
+Ao analisar esses diagramas, é correto afirmar que:
+A) Existe uma inconsistência entre os diagramas de classe e sequência.
+B) O objeto: Interface não poderia estar presente no diagrama de sequência, pois ele não possui uma
+classe correspondente.
+C) Os diagramas estão consistentes.
+D) As trocas de mensagens, apontadas no diagrama de sequência, possuem os métodos
+correspondentes no diagrama de classes.
+E) O objeto candidato não pode ser “estereotipado” como ator.
+ :  26
+EXAME POSCOMP
+– 2016

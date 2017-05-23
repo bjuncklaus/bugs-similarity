@@ -1,0 +1,3 @@
+Erro ao Alterar Regra de Autorização
+Com o usuário ADMSISTEMA está ocorrendo o um erro ao tentar editar uma regra de autorização, conforme vídeo anexo.
+O problema está ocorrendo somente na QAI.
