@@ -1,28 +1,24 @@
 from os import path
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
-from PIL import Image
-import numpy as np
 
-path.os.path.dirname(path.os.path.realpath('__file__'))
+files_dir = 'files/text/'
+imgs_dir = files_dir + 'imgs/'
 
-# text = open('NPAY-679.txt', 'r').read()
-# text = open('PAG-6411.txt', 'r').read()
+# text_file = 'Matrix.srt'
+text_file = 'senhor_dos_aneis.srt'
 
-# adiciona os stopwords
 stopwords = set(STOPWORDS)
-for word in open('stopwords-pt.txt', 'r').read().split('\n'):
+for word in open(path.join(files_dir, 'stopwords-pt.txt'), 'r').read().split('\n'):
     stopwords.add(word)
 
-# cria a wordcloud definindo fonte tamanho maximo
+text = open(path.join(files_dir, text_file), 'r').read()
+
 plt.figure()
-# plt.imshow(WordCloud(max_font_size=40, stopwords=stopwords).generate(open('NPAY-679.txt', 'r').read()), interpolation="bilinear")
-# plt.imshow(WordCloud(max_font_size=40, stopwords=stopwords).generate(open('PAG-6411.txt', 'r').read()), interpolation="bilinear")
-# plt.imshow(WordCloud(max_words=20, max_font_size=40, stopwords=stopwords).generate(open('1007.txt', 'r').read()), interpolation="bilinear")
-# plt.imshow(WordCloud(max_words=30, max_font_size=40, stopwords=stopwords).generate(open('silvio-santos.txt', 'r').read()), interpolation="bilinear")
-plt.imshow(WordCloud(max_words=30, max_font_size=40, stopwords=stopwords).generate(open('poscomp2016.txt', 'r').read()), interpolation="bilinear")
+
+wc = WordCloud(background_color='white', max_words=30, stopwords=stopwords)
+wc.generate(text)
+
+plt.imshow(wc, interpolation="bilinear")
 plt.axis("off")
 plt.show()
-
-# Salva o arquivo da imagem
-# wordcloud.to_file(path.join(d, "word_cloud_2.png"))

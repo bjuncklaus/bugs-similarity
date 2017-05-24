@@ -253,6 +253,8 @@ logo
 longe
 lugar
 lá
+lo
+la
 maior
 maioria
 maiorias
@@ -335,6 +337,7 @@ outra
 outras
 outro
 outros
+pra
 para
 parece
 parte
